@@ -588,7 +588,7 @@ Chaque couche a une responsabilité unique et bien définie.
 |**`Nom`**|***BOUKALA BONOKO FRANCK GABRIEL***|
 
 - 📧 Email: [ton email]
-- 🐙 GitHub: [ton GitHub]
+- 🐙 GitHub: [Mon GitHub](https://github.com/boukdevelop/TP_INF222_blog_api.git)
 - 📅 Date: Mars 2026
 
 Développé dans le cadre du cours **INF222 - Développement Web Backend**
