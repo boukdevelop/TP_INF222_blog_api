@@ -1,4 +1,4 @@
-# 📚 API Blog -- INF222 EC1 TAF1
+# 📚 API Blog <--> INF222 EC1 TAF1
 
 **API REST pour la gestion d'articles de blog**
 
