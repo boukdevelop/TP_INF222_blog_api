@@ -587,7 +587,7 @@ Chaque couche a une responsabilité unique et bien définie.
 |--------|--------|
 |**`Nom`**|***BOUKALA BONOKO FRANCK GABRIEL***|
 
-- 📧 Email: [ton email]
+- 📧 Email: [E-mail UY1](gabriel.boukala@facsciences-uy1.cm) -- [E-mail Perso](boukalabonoko@gmail.com)
 - 🐙 GitHub: [Mon GitHub](https://github.com/boukdevelop/TP_INF222_blog_api.git)
 - 📅 Date: Mars 2026
 
