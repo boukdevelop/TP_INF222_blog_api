@@ -31,6 +31,9 @@ server.on('error', (err) => {
   process.exit(1);
 });
 
+if (process.env.NODE_ENV !== 'production') {
+  require('dotenv').config();
+}
 // Graceful shutdown
 process.on('SIGTERM', () => {
   console.log('Arrêt du serveur...');
