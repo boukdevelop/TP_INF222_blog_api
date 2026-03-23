@@ -35,7 +35,3 @@ process.on('SIGTERM', () => {
   console.log('Arrêt du serveur...');
   server.close();
 });
-
-if (process.env.NODE_ENV !== 'production') {
-  require('dotenv').config();
-}
