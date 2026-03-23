@@ -2,8 +2,8 @@
 // POINT D'ENTRÉE - LANCE LE SERVEUR
 // ============================================
 
-const app = require('./src/app');
-require('dotenv').config();
+require('dotenv').config(); // Charger les variables EN PREMIER
+const app = require('./src/app'); // Charger l'application ENSUITE
 
 // Récupère le port depuis .env ou utilise 3000
 const PORT = process.env.PORT || 3000; // .env contient les identifiants de la base de données
